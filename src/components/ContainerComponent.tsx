@@ -23,6 +23,10 @@ export default function ContainerComponent() {
 
                     ></iframe>
 
+                    <h2 style={{ color: 'black', textAlign: 'center' }}> You can directly pay your guce bill <a href='https://webpay.smobilpay.acceptance.maviance.info/service/douanes/P106400414020U'>Click here</a> </h2>
+
+
+
                 </div>
             </Container>
         </React.Fragment >
