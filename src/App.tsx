@@ -4,7 +4,7 @@ import Body from './components/Body';
 
 function App() {
   return (
-    <div style={{ width: '100%' }}>
+    <div style={{ width: '98.83vw' }}>
       <Body />
     </div>
   );

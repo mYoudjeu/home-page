@@ -7,22 +7,23 @@ export default function ContainerComponent() {
     return (
         <React.Fragment>
             <CssBaseline />
-            <Container fixed sx={{ marginTop: '50px', marginBottom: '20px' }}>                    <div style={{ width: '100vw', paddingRight: '500px', alignSelf: 'center' }}>
+            <Container fixed sx={{ marginTop: '50px', marginBottom: '20px' }}>
+                <div style={{ width: '97vw', alignSelf: 'center' }}>
 
-                <h1 style={{ color: '#0654AE', textAlign: 'right' }}> <strong> You can equally use our services to pay your bills </strong></h1>
-                <iframe
-                    frameBorder={'0'}
-                    height="415"
-                    src="https://webpay.smobilpay.acceptance.maviance.info/embed"
-                    title="Webpay for partner"
-                    style={{ border: 'none', display: 'flex', width: '100vw' }}
+                    <h1 style={{ color: '#0654AE', textAlign: 'center' }}> <strong> You can equally use our services to pay your bills </strong></h1>
+                    <iframe
+                        frameBorder={'0'}
+                        height="250"
+                        src="https://webpay.smobilpay.acceptance.maviance.info/embed"
+                        title="Webpay for partner"
+                        style={{ border: 'none', display: 'flex', width: '97vw' }}
 
-                // allow="accelerometer; autoplay; encrypted-media; fullscreen; gyroscope; picture-in-picture"
+                    // allow="accelerometer; autoplay; encrypted-media; fullscreen; gyroscope; picture-in-picture"
 
 
-                ></iframe>
+                    ></iframe>
 
-            </div>
+                </div>
             </Container>
         </React.Fragment >
     );
