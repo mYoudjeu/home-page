@@ -23,7 +23,7 @@ export default function ContainerComponent() {
 
                     ></iframe>
 
-                    <h2 style={{ color: 'black', textAlign: 'center', marginBottom: '50px' }}> You can directly pay your guce bill <a href='https://webpay.smobilpay.acceptance.maviance.info/service/douanes/P106400414020U'>Click here</a> </h2>
+                    <h2 style={{ color: 'black', textAlign: 'center', marginBottom: '50px' }}> You can directly pay your guce bill <a href='https://webpay.smobilpay.acceptance.maviance.info/service/douanes/P039817080186D'>Click here</a> </h2>
 
 
 
