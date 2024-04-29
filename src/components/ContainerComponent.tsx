@@ -13,7 +13,7 @@ export default function ContainerComponent() {
                     <h1 style={{ color: '#0654AE', textAlign: 'center' }}> <strong> You can equally use our services to pay your bills </strong></h1>
 
 
-                    <iframe width="500" height="315" src="https://webpay.smobilpay.acceptance.maviance.info/embed"
+                    <iframe width="500" height="350" src="https://webpay.smobilpay.acceptance.maviance.info/embed"
                         title="Embedded THEOplayer"
                         allow="accelerometer; autoplay; encrypted-media; fullscreen; gyroscope; picture-in-picture"
                         style={{ border: 'none', display: 'flex', width: '97vw' }}
