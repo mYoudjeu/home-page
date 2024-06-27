@@ -20,7 +20,12 @@ export default function ContainerComponent() {
                     ></iframe>
 
                 </div>
+
+                <div className='rocket-image'>
+
+                </div>
             </Container>
+            
         </React.Fragment >
     );
 }

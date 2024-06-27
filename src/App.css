@@ -15,6 +15,16 @@
   width: 200%;
 }
 
+.rocket-image{
+  background-image: url(../public/media/rocket.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  position: relative;
+  width: 200px;
+  margin-left: 220px;
+}
+
 .image-overlay{
   background:rgba(2,48,75,.20);
   bottom: 0;
